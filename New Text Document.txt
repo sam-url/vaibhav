@@ -1,2 +1,4 @@
 Hi! I am a text document.
-branch_conflict_test.
+
+adding a new line in branch 2
+
