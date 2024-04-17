@@ -1,1 +1,2 @@
 Hi! I am a text document.
+adding a new line in branch 2
